@@ -1,5 +1,5 @@
 ---
-Title: "My First Blog"
+Title: "My First Blog - Circle Trails"
 Date: 2024-05-02
 ---
 # This is my blog for my experiments of circle trails in p5.js
