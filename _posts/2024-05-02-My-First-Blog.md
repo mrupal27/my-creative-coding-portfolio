@@ -7,12 +7,14 @@ Date: 2024-05-02
 
 Here we can see as follows:
 White to black gradient.
+<!--the spaces are important here as they prevent the image from formatting on to the same line as the information text-->
 
 ![This is a trail from the top left corner to the bottom right, producing a white to black gradient](/images/white-to-black.png)
 
 Pink to green gradient.
 
 ![This is a trail from the bottom left corner to the top right, producing a green to pink gradient](/images/green-to-pink.png)
+
 Both together.
 
 ```
