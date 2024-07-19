@@ -23,3 +23,4 @@ From this first experiment alone, I learnt that the colour grey (or any neutral 
 ```
 fill(mouseX, mouseY, mouseX);
 ```
+As our red and blue are controlled by mouseX, mouseY controlling our level of green is what produces a gradient of pink to green, with pink being maximum red and blue (controlled by mouseX) and 0 green and green being the obvious opposite with 0 red and blue and maximum green (controlled by mouseY).
