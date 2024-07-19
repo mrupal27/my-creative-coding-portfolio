@@ -16,8 +16,10 @@ Pink to green gradient.
 ![This is a trail from the bottom left corner to the top right, producing a green to pink gradient](/my-creative-coding-portfolio/images/green-to-pink.png)
 
 Both together.
+![This is both trails white to black (top left corner to the bottom right) and green to pink (bottom left to top right) shown together](/my-creative-coding-portfolio/images/both-gradients.png)
+
+From this first experiment alone, I learnt that the colour grey (or any neutral colour such as white or black)becomes very subordinate to bright hues (such as the pink and green here) as from the both gradients together photo, we can see the intersection in the centre of the canvass looks more pink and green than it actually is due to our brains rendering the neutral colours as less significant subconsciously. I also learnt that if 2 values of an rgb are equal then, the third colour which is different will be the only independent variable as we have on line 12:
 
 ```
-tis issd code test
-fd
+fill(mouseX, mouseY, mouseX);
 ```
