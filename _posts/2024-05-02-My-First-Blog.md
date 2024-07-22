@@ -2,9 +2,9 @@
 Title: "My First Blog - Circle Trails"
 Date: 2024-05-02
 ---
-## This is my blog for my experiments of circle trails in p5.js
+# This is my blog for my experiments of circle trails in p5.js
 
-# This is my first experiment, which shows circles on a screen which gradually change colour from one corner to another (black in the top left, white in the bottom right, pink in the top right and green in the bottom left.)
+## This is my first experiment, which shows circles on a screen which gradually change colour from one corner to another (black in the top left, white in the bottom right, pink in the top right and green in the bottom left.)
 
 Here we can see as follows:
 
@@ -31,7 +31,7 @@ As our red and blue are controlled by mouseX, mouseY controlling our level of gr
 You can try this pink to green and white to black circle trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-1/index.html)
 
 
-# #This is my second experiment, which shows that we can produce multiple colour trails (here there are four which are symmetrical as three identical trails are produced alongside the one that follows the mouse: one with the same X position but opposite Y position, one with the same Y position but opposite X position and one with opposite X and Y positions.)
+## This is my second experiment, which shows that we can produce multiple colour trails (here there are four which are symmetrical as three identical trails are produced alongside the one that follows the mouse: one with the same X position but opposite Y position, one with the same Y position but opposite X position and one with opposite X and Y positions.)
 
 I ended up with 2 images as follows:
 
@@ -57,7 +57,7 @@ The heavy symmetry made me think that a modified version of this program could m
 
 You can try this blue, white and yellow symmetrical trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-2/index.html)
 
-# This is my third experiment, which shows 2 colour trails of red, cyan blue and white, one which is a large circular trail and one which is a smaller square trail.)
+## This is my third experiment, which shows 2 colour trails of red, cyan blue and white, one which is a large circular trail and one which is a smaller square trail.)
 
 After my second experiment, I thought about what I could change to make the trails produce something different, so I simplified the number from 4 to 2 but made the sizes and shapes difference, as can be seen here where I create a square:
 
@@ -77,7 +77,7 @@ This experiment made me comfortable with the fact that the computer could end up
 
 You can try this red, blue and white circle and square trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-3/index.html)
 
-# This is my fourth experiment, which shows one colour trail, that produces an airy rainbow trail with the use of the map function and the creation of 2 variables to support this.)
+## This is my fourth experiment, which shows one colour trail, that produces an airy rainbow trail with the use of the map function and the creation of 2 variables to support this.)
 
 Throughout creating my other trail experiments, I wanted to create a rainbow spectrum trail but thought I would have to learn to use a complex for loop to run through different colour combinations and loop back to the first colour like red but I was able to achieve something similar by still using mouseX and mouseY and the map function.
 
@@ -106,7 +106,6 @@ let greenValue = 0;
 
 You can try this rainbow colour trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-4/index.html)
 
-PUT SHAPE CHANGER ON NUMBER 4 USING FOR LOOP
  USE RANDOM LINE DRAWER UP LEFT RIGHT DOWN, 
  CREATE IMAGE IN 3D CIRCLE EXAMPLE WHICH THROWS THE CIRCLE THAT GOES IN AND OUT.
 
