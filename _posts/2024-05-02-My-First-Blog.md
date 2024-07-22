@@ -1,6 +1,6 @@
 ---
 Title: "My First Blog - Circle Trails"
-Date: 2024-05-12
+Date: 2024-05-02
 ---
 ## This is my blog for my experiments of circle trails in p5.js
 
@@ -28,7 +28,7 @@ fill(mouseX, mouseY, mouseX);
 ```
 As our red and blue are controlled by mouseX, mouseY controlling our level of green is what produces a gradient of pink to green, with pink being maximum red and blue (controlled by mouseX) and 0 green and green being the obvious opposite with 0 red and blue and maximum green (controlled by mouseY).
 
-You can try this pink to green and white to black circle trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circletrail1/index.html):
+You can try this pink to green and white to black circle trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-1/index.html):
 
 
 #This is my second experiment, which shows that we can produce multiple colour trails (here there are four which are symmetrical as three identical trails are produced alongside the one that follows the mouse: one with the same X position but opposite Y position, one with the same Y position but opposite X position and one with opposite X and Y positions.)
@@ -55,7 +55,7 @@ After adding this I was able to add more complex patterns that reminded me of sq
 
 The heavy symmetry made me think that a modified version of this program could make some really beautiful flags as many flags are just simple lines so the use of other shapes that aren't just circles could help design a specific flag without much effort.
 
-You can try this blue, white and yellow symmetrical trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circletrail1/index.html):
+You can try this blue, white and yellow symmetrical trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-2/index.html):
 
 
 PUT SHAPE CHANGER ON NUMBER 4 USING FOR LOOP, DIFFERENT COLOURS FOR TRAILS ON NUMBER 2, talk about symmetrical uses for FLAGS IN NO2
