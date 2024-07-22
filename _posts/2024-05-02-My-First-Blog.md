@@ -1,6 +1,6 @@
 ---
 Title: "My First Blog - Circle Trails"
-Date: 2024-05-29
+Date: 2024-05-12
 ---
 ## This is my blog for my experiments of circle trails in p5.js
 
