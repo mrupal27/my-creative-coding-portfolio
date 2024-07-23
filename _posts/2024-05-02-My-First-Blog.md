@@ -57,7 +57,7 @@ The heavy symmetry made me think that a modified version of this program could m
 
 You can try this blue, white and yellow symmetrical trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-2/index.html)
 
-## This is my third experiment, which shows 2 colour trails of red, cyan blue and white, one which is a large circular trail and one which is a smaller square trail.)
+## This is my third experiment which shows 2 colour trails of red, cyan blue and white, one which is a large circular trail and one which is a smaller square trail.)
 
 After my second experiment, I thought about what I could change to make the trails produce something different, so I simplified the number from 4 to 2 but made the sizes and shapes difference, as can be seen here where I create a square:
 
@@ -77,7 +77,7 @@ This experiment made me comfortable with the fact that the computer could end up
 
 You can try this red, blue and white circle and square trail experiment here: [code experiment](/my-creative-coding-portfolio/p5-code-experiments/circle-trail-3/index.html)
 
-## This is my fourth experiment, which shows one colour trail, that produces an airy rainbow trail with the use of the map function and the creation of 2 variables to support this.)
+## This is my fourth experiment, which shows one colour trail that produces an airy rainbow trail with the use of the map function and the creation of 2 variables to support this.)
 
 Throughout creating my other trail experiments, I wanted to create a rainbow spectrum trail but thought I would have to learn to use a complex for loop to run through different colour combinations and loop back to the first colour like red but I was able to achieve something similar by still using mouseX and mouseY and the map function.
 
