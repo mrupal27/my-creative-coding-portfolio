@@ -77,7 +77,7 @@ function mousePressed() {
 }
 ```
 
-You can try this house generator [starting point](/my-creative-coding-portfolio/p5-code-experiments/random-house-generator-startin-point/index.html)
+You can try this house generator here [starting point](/my-creative-coding-portfolio/p5-code-experiments/random-house-generator-starting-point/index.html)
 
 I wish to create a program that does this random generation but for cars instead at some point in this blog post.
 
