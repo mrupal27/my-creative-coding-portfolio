@@ -7,7 +7,9 @@ Date: 2024-07-25
 ## Here is the program that made me want to work with selection statements, a random house generator program from Dan Shiffman's p5 tutorial on the random function.
 
 Here is the following code:
-``` // Introduction to Conditional Statements
+
+``` 
+// Introduction to Conditional Statements
 // Code! Programming with p5.js
 // The Coding Train / Daniel Shiffman
 // https://thecodingtrain.com/beginners/p5js/3.1-conditional-statements.html
